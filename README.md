@@ -20,6 +20,7 @@ I'm Vitória Chaves, Web application developer with interest in various areas �
   <div style="width: 40px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></div>
   <div style="width: 40px;"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"></div>
 </div>
+
 <hr>
 
 ### ⚙️ &nbsp; Git Analytics
