@@ -13,7 +13,7 @@ I'm Vitória Chaves, Web application developer with interest in various areas �
 
 🤝 &nbsp; Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([www.linkedin.com/in/vitória-chaves-3882952a3](https://www.linkedin.com/in/vit%C3%B3ria-chaves-3882952a3/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([www.linkedin.com/in/vitória-chaves-3882952a3](https://www.linkedin.com/in/vit%C3%B3ria-chaves-3882952a3/)]
 <hr>
 
 ### 🛠 &nbsp; Tech Stack
