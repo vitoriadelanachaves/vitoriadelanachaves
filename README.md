@@ -18,8 +18,6 @@ I'm VitÃ³ria Chaves, Web application developer with interest in various areas ğŸ
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> 
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  
-<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40"> 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40">  
 </div>
 
