@@ -10,11 +10,10 @@ I'm Vitória Chaves, Web application developer with interest in various areas �
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 - 🤔 I’m looking for an internship.
 - :speech_balloon: Ask me about anything.
-- 😄 Pronouns: She/Her.
 
 🤝 &nbsp; Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navodya-pasqual-11ba801b1/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/vitória-chaves-3882952a3)
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
 <hr>
