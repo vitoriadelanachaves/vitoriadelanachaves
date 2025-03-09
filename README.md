@@ -14,7 +14,7 @@ I'm VitÃ³ria Chaves, Web application developer with interest in various areas ğŸ
 <hr>
 
 ### ğŸ›  &nbsp; Tech Stack
-
+<div style="display: flex; gap: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> 
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> 
@@ -24,6 +24,8 @@ I'm VitÃ³ria Chaves, Web application developer with interest in various areas ğŸ
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> 
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> 
+
+</div>
 
 <hr>
 
