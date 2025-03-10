@@ -14,7 +14,7 @@ I'm Vitória Chaves, Web application developer with interest in various areas �
 <hr>
 
 ### 🛠 &nbsp; Tech Stack
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 10px; justify-content: space-between; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React">
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" alt="Java">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
