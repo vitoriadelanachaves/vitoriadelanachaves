@@ -14,12 +14,21 @@ I'm Vitória Chaves, Web application developer with interest in various areas �
 <hr>
 
 ### 🛠 &nbsp; Tech Stack
-<div style="display: flex; gap: 10px;">
-  <div style="width: 40px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"></div>
-  <div style="width: 40px;"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"></div>
-  <div style="width: 40px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></div>
-  <div style="width: 40px;"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"></div>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <div style="width: 40px; display: flex; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React">
+  </div>
+  <div style="width: 40px; display: flex; justify-content: center;">
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" alt="Java">
+  </div>
+  <div style="width: 40px; display: flex; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
+  </div>
+  <div style="width: 40px; display: flex; justify-content: center;">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="40">
+  </div>
 </div>
+
 
 <hr>
 
