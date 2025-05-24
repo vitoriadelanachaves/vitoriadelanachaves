@@ -4,7 +4,6 @@ I'm Vitória Chaves, Web application developer with interest in various areas �
 
 
 - :seedling: I’m currently learning about Next.js.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
 - 🤔 I’m looking for an internship.
 - :speech_balloon: Ask me about anything.
 
